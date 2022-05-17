@@ -1,0 +1,141 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "questions": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "answers": [
+        "Hey ;-;",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "questions": ["Bye", "See you later", "Goodbye"],
+      "answers": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "questions": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "answers": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "introduction",
+      "questions": [
+        "What is this app about?",
+        "What can you do?",
+        "What is NameThatFish?",
+        "What can this app do?"
+      ],
+      "answers": [
+        "NameThatFish is an application that can predict over 20 fish species in North America when you upload or take a picture.",
+        "Upload or take a picture and check it out!"
+      ]
+    },
+    {
+      "tag": "upload",
+      "questions": [
+        "How can I upload a picture?",
+        "Can I use a photo from my phone?",
+        "How to upload?"
+      ],
+      "answers": [
+        "Go to the 'upload' tab. There are two ways of uploading a picture from your phone. 1. Use the gallery view, and press 'upload image' long enough. Upload your desired picture, and crop. 2. Use the grid view, and press 'upload image' shortly. Upload your desired picture, and crop."
+      ]
+    },
+    {
+      "tag": "take",
+      "questions": [
+        "How can I take a picture?",
+        "Can I take a photo in the app?",
+        "How to take a picture?"
+      ],
+      "answers": [
+        "Go to the 'camera' tab. Take a photo. You can also take in a selfie mode! Once done, crop the picture."
+      ]
+    },
+    {
+      "tag": "privacy",
+      "questions": [
+        "Do you store my pictures?",
+        "Do you save my pictures externally?",
+        "Do you save my pictures permanently?",
+        "Are uploaded pictures saved permanently?",
+        "Does the app store uploaded images?"
+      ],
+      "answers": [
+        "We do not store your taken or uploaded images to any database, though it is stored in your phone's internal cache to persist throughout the use of the app."
+      ]
+    },
+    {
+      "tag": "crop",
+      "questions": [
+        "Can I crop the picture?",
+        "Can I crop the image?",
+        "How to crop the image?",
+        "Crop the picture"
+      ],
+      "answers": [
+        "You can crop your taken or uploaded images."
+      ]
+    },
+    {
+      "tag": "classify",
+      "questions": [
+        "What fish species can you classify??",
+        "What fish species can you predict?",
+        "How many fish can you predict?",
+        "What can you predict?"
+      ],
+      "answers": [
+        "We can classify over 20 fish species in North America. They are Atlantic Salmon, Bluegill, Brook Trout, Channel Catfish, Chinook Salmon, Crappie, Flathead Catfish, Lake Sturgeon, Sea Lamprey, Largemouth Bass, Muskellunge, Northern Pike, Not Recognized, Rainbow Trout, Rock Bass, Smallmouth Bass, Sunfish, Walleye, White Perch, and Yellow Perch.",
+        "We can predict over 20 fish species. They are listed in the library tab."
+      ]
+    },
+    {
+      "tag": "picture",
+      "questions": [
+        "Can I upload a picture?",
+        "Can I take a picture within the app?"
+      ],
+      "answers": [
+        "Yes",
+        "Yes give it a try!"
+      ]
+    },
+    {
+      "tag": "joke",
+      "questions": [
+        "Tell me a joke!",
+        "What is the joke of the day?",
+        "Tell me something funny."
+      ],
+      "answers": [
+        "What do kids play when their mom is using the phone? Bored games.",
+        "What do you call an ant who fights crime? A vigilANTe!",
+        "Why are snails slow? Because they’re carrying a house on their back.",
+        "What’s the smartest insect? A spelling bee!",
+        "What does a storm cloud wear under his raincoat? Thunderwear.",
+        "What is fast, loud and crunchy? A rocket chip.",
+        "How does the ocean say hi? It waves!",
+        "What do you call a couple of chimpanzees sharing an Amazon account? PRIME-mates.",
+        "Why did the teddy bear say no to dessert? Because she was stuffed.",
+        "Why did the soccer player take so long to eat dinner? Because he thought he couldn’t use his hands.",
+        "Name the kind of tree you can hold in your hand? A palm tree!",
+        "What do birds give out on Halloween? Tweets."
+      ]
+    }
+  ]
+}
