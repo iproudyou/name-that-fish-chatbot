@@ -6,7 +6,7 @@ A user can type in a question and the bot will try its best to answer.
 
 This is a machine learning based chatbot, which used neural network with PyTorch.
 
-[example usage](https://res.cloudinary.com/duwjmxykz/image/upload/v1652754391/Screen_Shot_2022-05-16_at_10.26.23_PM_a1uu60.png)
+![example usage](https://res.cloudinary.com/duwjmxykz/image/upload/v1652754391/Screen_Shot_2022-05-16_at_10.26.23_PM_a1uu60.png)
 
 ## Starting the app
 
